@@ -1,12 +1,4 @@
-
- Hello,
-
- The hosting of an abusive content (Copyright) on your shared hosting creator[.]tf has been reported to or noticed by our Abuse Team.
-
- Technical details (such as URLs) showing the aforementioned problem follow :
-
- -- start of the technical details --
- \--- about --- hxxpx : / /creator [.] tf/ \--- description follows --- Hello, my name is Daniel.
+Hello, my name is Daniel.
 
  I am the project lead of hxxpx : / /Creators.TF - a community driven project, purpose of which is to create new content for the online multiplayer game - Team Fortress 2. And a while ago we discovered an issue, that we would be grateful if you help us resolve.
 
