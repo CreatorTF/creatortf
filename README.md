@@ -1,6 +1,6 @@
 ### Creators.TF leaks
 
-After a [takedown request](https://github.com/CreatorTF/creatortf/blob/main/takedownrequest-02-02-20.txt) we've moved the content here.
+After a [takedown request](https://github.com/CreatorTF/creatortf/blob/main/takedownrequest-02-02-20.md) we've moved the content here.
 
 All files are compressed using 7-Zip.
 
