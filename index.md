@@ -56,5 +56,3 @@ This is a copy of the live website repo, including the item economy logic, from 
 [Tyler McVicker attempting to kick a developer out for saying “tranny”](https://vocaroo.com/1fgxGHcxbqX)
 
 [Tyler’s damage control Q&A after multiple code leaks and moderator resignations](https://vocaroo.com/1JosFvTyq7ZH)
-
-[Feedback document from a team of moderators](https://docs.google.com/document/d/15ZRCcS06uw5YsZ7gySPPYqwxl1F9112Ya0Q4OInmWCc/edit)
